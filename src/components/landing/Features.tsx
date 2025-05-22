@@ -112,7 +112,7 @@ const Features: React.FC = () => {
                   Exclusive Authors & Premium Content
                 </h3>
                 <p className="mt-4 text-white/70">
-                  Our platform features renowned authors and exclusive content you won't find anywhere else. From established writers to emerging talents, discover voices that speak to your deepest desires.
+                  Our platform features renowned authors and exclusive content you won&apos;t find anywhere else. From established writers to emerging talents, discover voices that speak to your deepest desires.
                 </p>
                 <ul className="mt-6 space-y-3">
                   {['Award-winning writers', 'Exclusive content', 'Regular author interactions', 'Early access to new releases'].map((item, i) => (

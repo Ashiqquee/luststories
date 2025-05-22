@@ -130,7 +130,7 @@ const PopularStories: React.FC = () => {
             Most <span className="gradient-text">Popular</span> Stories
           </h2>
           <p className="mt-4 text-lg text-white/70 max-w-2xl mx-auto">
-            Our readers' favorite selections, crafted to ignite your imagination and awaken your desires.
+            Our readers&apos; favorite selections, crafted to ignite your imagination and awaken your desires.
           </p>
         </div>
         
